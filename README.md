@@ -1,6 +1,6 @@
 # steamdeck-vn-patching
 
-
+I copied this text from [u/fallenguru](https://www.reddit.com/user/fallenguru/) on [this thread](https://www.reddit.com/r/visualnovels/comments/ujpjiz/comment/i7m1igx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 I don't think HOWTOs for absolute (Linux) newbies exist, yet.
 Patches
